@@ -1,6 +1,9 @@
 # LoL Replays Github Repo
 
-- [EUN1-3721729203.rofl](no video) LoL Noob Second ROFL
+- [RU-514094755.rofl](https://youtu.be/wTmRzXTTPbI) ЛоЛ Ру сервер Brand врывается в ARAM КДА=8 (19/6/29)  (rofl)
+  * Скачать с [ГитХаба](https://github.com/deecovan/LoL/blob/initial/screens/004/RU-514094755.rofl)
+
+- [EUN1-3721729203.rofl](no video) LoL Noob part 2
   * Download from [GitHub](https://github.com/deecovan/LoL/blob/initial/screens/002/EUN1-3721729203.rofl)
 
 - [EUN1-3721588634](https://youtu.be/T_Uc05P-HFs) LoL Noob vs Bots 2x2
