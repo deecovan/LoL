@@ -1,7 +1,20 @@
 # LoL Replays Github Repo
 
+## This/Здесь:
+
+### First time playing Talon
+
+- [EUN1-3722636599.rofl](https://youtu.be/bmo2NAByEBM) Trainee Talon with Volibear vs bots 2x2
+  * Download from [GitHub](https://github.com/deecovan/LoL/blob/initial/screens/005/EUN1-3722636599.rofl)
+
+## Also/Также 
+
+### Первый раз на Бранде
+
 - [RU-514094755.rofl](https://youtu.be/wTmRzXTTPbI) ЛоЛ Ру сервер Brand врывается в ARAM КДА=8 (19/6/29)  (rofl)
   * Скачать с [ГитХаба](https://github.com/deecovan/LoL/blob/initial/screens/004/RU-514094755.rofl)
+
+### Mordekaiser and Tristana
 
 - [EUN1-3721729203.rofl](no video) LoL Noob part 2
   * Download from [GitHub](https://github.com/deecovan/LoL/blob/initial/screens/002/EUN1-3721729203.rofl)
