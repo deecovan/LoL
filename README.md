@@ -2,6 +2,8 @@
 
 ## This/Здесь:
 
+- @TODO Record and Publish to YouTube 013! and 014-WinNoKills-1x1
+
 ### First time playing Talon
 
 - [EUN1-3722636599.rofl](https://youtu.be/bmo2NAByEBM) Trainee Talon with Volibear vs bots 2x2
