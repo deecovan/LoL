@@ -1,1 +1,4 @@
 *.webm
+apps
+apps/
+apps/*
